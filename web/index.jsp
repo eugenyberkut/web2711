@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <form action="calculate">
+    <input type="text" name="a"><br/>
+    <input type="text" name="b"><br/>
+    <input type="submit" value="Ok">
+  </form>
   </body>
 </html>
