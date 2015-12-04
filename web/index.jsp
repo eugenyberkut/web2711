@@ -16,5 +16,7 @@
     <input type="text" name="b"><br/>
     <input type="submit" value="Ok">
   </form>
+
+  <a href="library">Книги</a>
   </body>
 </html>
